@@ -1,6 +1,6 @@
 # 3D Object Estimation Using Deep Learning and Geometric Constraints
 
-This repository presents a technique for **3D object estimation** from a single image. Our approach combines **deep convolutional neural networks** with **geometric constraints** derived from 2D bounding boxes to generate accurate and robust 3D bounding boxes. The proposed technique has been evaluated using a subset of the **KITTI dataset**.
+In this repository i explain a technique for **3D object estimation** from a single image. My approach combines **deep convolutional neural networks** with **geometric constraints** derived from 2D bounding boxes to generate accurate and robust 3D bounding boxes. The proposed technique has been evaluated using a subset of the **KITTI dataset**.
 
 ---
 
