@@ -57,6 +57,7 @@ The proposed technique is evaluated using a subset of the **KITTI dataset**, whi
 ---
 
 ## Results
+![KITTI Dataset Sample](kitti_sample.png)
 
 ### Key Outcomes:
 - **Robustness**: Consistently generates reliable 3D bounding boxes across varying object scales and crowded locations.
